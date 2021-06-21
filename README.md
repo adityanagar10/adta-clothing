@@ -5,4 +5,5 @@
 <li> <strong>React </strong>
 <li> <strong>SASS</strong>
 <li> <strong>Firebase</strong>
-  
+<li> <strong>Redux</strong>
+<li> <strong>Stripe API</strong>
