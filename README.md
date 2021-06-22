@@ -7,3 +7,6 @@
 <li> <strong>Firebase (log in and sign up)</strong>
 <li> <strong>Redux (better data flow) </strong>
 <li> <strong>Stripe API (for payment) </strong>
+  
+  
+  <h2><strong> IT IS LIVE : </strong> https://adta-clothing.herokuapp.com/  </h2>
