@@ -36,6 +36,11 @@ const config = {
     return userRef;
   }
 
+  export const addCollectionAndDocuments = (collectionKey, objectsToAdd) => {
+    const collectionRef = firestore.collection(collectionKey);
+    console.log(collectionRef);
+    const batch = firestore.batch();
+  }
 
   firebase.initializeApp(config);
 
