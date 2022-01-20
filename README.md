@@ -1,4 +1,4 @@
-<h1> ADTA Clothing - A React based E-Commerce Website **(Work in Progess)** </h1>
+<h1> ADTA Clothing - A React based E-Commerce Websit </h1>
 
 <h2> Technologies Used </h2>
 
